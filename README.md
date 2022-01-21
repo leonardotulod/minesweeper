@@ -1,2 +1,2 @@
 # minesweeper
-Recreated my own version of the classic Microsoft Minesweeper game in C++. Run both the functions.cpp and minesweeper.cpp to play!
+Recreated my own version of the classic Microsoft Minesweeper game in C++. Compile the functions.cpp and minesweeper.cpp then run it to play!
